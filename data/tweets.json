@@ -1,0 +1,17 @@
+{
+    "tweets": [
+        {
+            "post": "This is a first post.",
+            "posted_by": "Mimos"
+        },
+        {
+            "post": "Hello everyone!",
+            "posted_by": "Aakar"
+        },
+        {
+            "post": "This is a second post.",
+            "posted_by": "Mimos"
+        }
+    ]
+
+}
