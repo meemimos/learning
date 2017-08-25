@@ -1,2 +1,2 @@
-# learning
-javascript learn codes
+# learning javascript
+These are my javascript learn codes
